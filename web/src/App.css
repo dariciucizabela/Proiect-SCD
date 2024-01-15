@@ -1,0 +1,71 @@
+/* app.css */
+
+/* Add your custom styles here */
+/* For example: */
+
+.header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+.container {
+    margin: 20px;
+}
+
+.employee-list {
+    margin-bottom: 20px;
+}
+
+.employee {
+    padding: 10px;
+    border: 1px solid #ccc;
+    margin-bottom: 5px;
+    border-radius: 4px;
+}
+
+.employee-details {
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.department-list {
+    margin-bottom: 20px;
+}
+
+.department {
+    padding: 10px;
+    border: 1px solid #ccc;
+    margin-bottom: 5px;
+    border-radius: 4px;
+}
+
+.department-details {
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.form {
+    margin-bottom: 20px;
+}
+
+.form input[type='text'] {
+    padding: 8px;
+    margin-bottom: 10px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+}
+
+.form button {
+    padding: 8px 16px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.form button:hover {
+    background-color: #555;
+}
