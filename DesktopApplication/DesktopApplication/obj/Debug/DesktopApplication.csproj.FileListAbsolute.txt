@@ -1,0 +1,23 @@
+C:\Users\deter\Desktop\SCD\Proiect\proiect final\ProiectSCD_11.12\DesktopApplication\DesktopApplication\bin\Debug\DesktopApplication.exe.config
+C:\Users\deter\Desktop\SCD\Proiect\proiect final\ProiectSCD_11.12\DesktopApplication\DesktopApplication\bin\Debug\DesktopApplication.exe
+C:\Users\deter\Desktop\SCD\Proiect\proiect final\ProiectSCD_11.12\DesktopApplication\DesktopApplication\bin\Debug\DesktopApplication.pdb
+C:\Users\deter\Desktop\SCD\Proiect\proiect final\ProiectSCD_11.12\DesktopApplication\DesktopApplication\obj\Debug\DesktopApplication.csproj.AssemblyReference.cache
+C:\Users\deter\Desktop\SCD\Proiect\proiect final\ProiectSCD_11.12\DesktopApplication\DesktopApplication\obj\Debug\DesktopApplication.Properties.Resources.resources
+C:\Users\deter\Desktop\SCD\Proiect\proiect final\ProiectSCD_11.12\DesktopApplication\DesktopApplication\obj\Debug\DesktopApplication.csproj.GenerateResource.cache
+C:\Users\deter\Desktop\SCD\Proiect\proiect final\ProiectSCD_11.12\DesktopApplication\DesktopApplication\obj\Debug\DesktopApplication.csproj.CoreCompileInputs.cache
+C:\Users\deter\Desktop\SCD\Proiect\proiect final\ProiectSCD_11.12\DesktopApplication\DesktopApplication\obj\Debug\DesktopApplication.exe
+C:\Users\deter\Desktop\SCD\Proiect\proiect final\ProiectSCD_11.12\DesktopApplication\DesktopApplication\obj\Debug\DesktopApplication.pdb
+C:\Users\deter\Desktop\SCD\Proiect\proiect final\ProiectSCD_11.12\DesktopApplication\DesktopApplication\obj\Debug\desktopApplication.Form1.resources
+E:\OneDrive - Technical University of Cluj-Napoca\AN 4\SEM 1\SCD\ProiectSCD_11.12\DesktopApplication\DesktopApplication\bin\Debug\DesktopApplication.exe.config
+E:\OneDrive - Technical University of Cluj-Napoca\AN 4\SEM 1\SCD\ProiectSCD_11.12\DesktopApplication\DesktopApplication\bin\Debug\DesktopApplication.exe
+E:\OneDrive - Technical University of Cluj-Napoca\AN 4\SEM 1\SCD\ProiectSCD_11.12\DesktopApplication\DesktopApplication\bin\Debug\DesktopApplication.pdb
+E:\OneDrive - Technical University of Cluj-Napoca\AN 4\SEM 1\SCD\ProiectSCD_11.12\DesktopApplication\DesktopApplication\obj\Debug\DesktopApplication.csproj.AssemblyReference.cache
+E:\OneDrive - Technical University of Cluj-Napoca\AN 4\SEM 1\SCD\ProiectSCD_11.12\DesktopApplication\DesktopApplication\obj\Debug\desktopApplication.Form1.resources
+E:\OneDrive - Technical University of Cluj-Napoca\AN 4\SEM 1\SCD\ProiectSCD_11.12\DesktopApplication\DesktopApplication\obj\Debug\DesktopApplication.Properties.Resources.resources
+E:\OneDrive - Technical University of Cluj-Napoca\AN 4\SEM 1\SCD\ProiectSCD_11.12\DesktopApplication\DesktopApplication\obj\Debug\DesktopApplication.csproj.GenerateResource.cache
+E:\OneDrive - Technical University of Cluj-Napoca\AN 4\SEM 1\SCD\ProiectSCD_11.12\DesktopApplication\DesktopApplication\obj\Debug\DesktopApplication.csproj.CoreCompileInputs.cache
+E:\OneDrive - Technical University of Cluj-Napoca\AN 4\SEM 1\SCD\ProiectSCD_11.12\DesktopApplication\DesktopApplication\obj\Debug\DesktopApplication.exe
+E:\OneDrive - Technical University of Cluj-Napoca\AN 4\SEM 1\SCD\ProiectSCD_11.12\DesktopApplication\DesktopApplication\obj\Debug\DesktopApplication.pdb
+E:\OneDrive - Technical University of Cluj-Napoca\AN 4\SEM 1\SCD\ProiectSCD_11.12\DesktopApplication\DesktopApplication\bin\Debug\Newtonsoft.Json.dll
+E:\OneDrive - Technical University of Cluj-Napoca\AN 4\SEM 1\SCD\ProiectSCD_11.12\DesktopApplication\DesktopApplication\bin\Debug\Newtonsoft.Json.xml
+E:\OneDrive - Technical University of Cluj-Napoca\AN 4\SEM 1\SCD\ProiectSCD_11.12\DesktopApplication\DesktopApplication\obj\Debug\DesktopApplication.csproj.CopyComplete
